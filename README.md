@@ -2,7 +2,9 @@
 **Computer Engineering Undergraduate at PUC Minas**
 
 **University Teaching Assistant for Analytical Geometry and Linear Algebra**
-🌎 Languages:
+
+**🌎 Languages:**
+
 **Portuguese:** Native 🇧🇷
 
 **English:** Fluent 🇺🇸
